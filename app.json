@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "kinai",
+    "slug": "kinai",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
